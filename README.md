@@ -15,7 +15,8 @@ Satellite imagery downloader. Make it auto!!!
 
 ### 需要用到的python package或框架
 1. 网络访问 
-- [Django](https://www.djangoproject.com/)
+- [Flask](http://flask.pocoo.org/) 初级框架
+- [Django](https://www.djangoproject.com/) 高级框架
 2. 数据库访问
 3. 文件整理
 
